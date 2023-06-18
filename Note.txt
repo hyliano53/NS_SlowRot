@@ -1,0 +1,5 @@
+- SlowRot solves 1 star given the proper initial conditions (we dont choose the angular velocity)
+
+- SlowRot2 solves a family of stars (we can choose the angular velocity of them)
+
+- You need a P_of_rho.dat file to use the program (equation of state)
